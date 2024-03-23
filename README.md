@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pascal</h1>
-<h3 align="center">A junior cloud engineer</h3>
+<h3 align="center">Cloud architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indiantechsupporter&label=Profile%20views&color=0e75b6&style=flat" alt="indiantechsupporter" /> </p>
 
-- 🔭 I’m currently working at **fme AG**
+- 🔭 I’m currently working at **ITSC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
